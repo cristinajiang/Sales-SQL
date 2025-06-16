@@ -17,10 +17,11 @@ The sales team needs visibility into which product lines are most profitable and
 **Key Questions**
 1. Which product lines generate the highest revenue and profit margins?
 2. Which region generates the most revenue? Which region generates the least revenue?
-3. Is there any revenue trend over time? 
-4. Who are the top 5 customers by total payment? 
-5. Which employees are responsible for the highest customer revenue?
-6. How often are orders delayed? 
+3. Is there any revenue trend over time?
+4. How often are orders delayed? 
+5. Who are the top 5 customers by total payment? 
+6. Which employees are responsible for the highest customer revenue?
+
    
 **SQL Codes** 
 
@@ -70,7 +71,7 @@ Since Hong Kong’s revenue is only $45,480.79—approximately the average price
 
 *Insights: The automotive company is able to retrieve the high performers' names and information.*
 
-**Next-Step Recommendations to Increase Revenue and Profitability** 
+## **Next-Step Recommendations to Increase Revenue and Profitability** 
 1. Optimize Profit Strategy
 * Promote high-margin products like Motorcycles more aggressively
 * Revisit pricing or sourcing strategy for lower-margin, high-volume lines (e.g., Classic Cars)
@@ -89,7 +90,7 @@ Since Hong Kong’s revenue is only $45,480.79—approximately the average price
 * Review logistics, supplier timelines, and internal processing for any bottlenecks
 
 5. Plan Around Seasonal Trends
-*Use Q4 revenue peak to plan targeted campaigns or product launches
-*Consider early inventory ramp-ups and cross-sell strategies during high-demand periods
+* Use Q4 revenue peak to plan targeted campaigns or product launches
+* Consider early inventory ramp-ups and cross-sell strategies during high-demand periods
 
 

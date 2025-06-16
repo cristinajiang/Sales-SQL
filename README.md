@@ -22,7 +22,7 @@ Highlight potential gaps (e.g., late shipments).
 
 SQL Codes: 
 1. Which product lines generate the highest revenue and profit margins?
-![SQL Command and Results:](images/SQL Top 3 Product Line.png)
+![SQL Command and Results](images/sql_top_3_product_line.png)
 2. Which country has the most revenue? Which country hasthe least revenue?
 
 

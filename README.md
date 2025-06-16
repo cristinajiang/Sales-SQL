@@ -1,6 +1,6 @@
 # Sales-SQL
 Sales Performance and Product Line Profitability Analysis For an Automotive Company
-(This is a side project I did using a public dataset to explore key business questions and decisions using SQL)
+(This is a side project I did using a public dataset to explore key business questions and decisions using SQL, which include a problem statement,analytics goal,key questions,SQL code, and summary of insights/recommednation)
 
 🧩 Problem Statement 
 The sales team needs visibility into which product lines are most profitable and which sales representatives and customers contribute most to revenue. This will help with optimizing regional marketing, inventory planning, and sales strategy.
@@ -10,6 +10,7 @@ Identify high-revenue and high-margin product lines
 Identify countries with highest and lowest total revenue
 Evaluate potential operation inefficiency (e.g., late shipments)
 Highlight sales performance by employee (sales rep) and customer
+Provide actional recommendations based on the data 
 
 
 ❓Key Questions

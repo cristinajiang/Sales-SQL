@@ -3,8 +3,8 @@
 This is a mini side project I completed using a public dataset to explore key business questions and support decision-making with SQL. It includes a problem statement, analytics goals, key questions, SQL code, and a summary of insights and recommendations.
 
 
-**Problem Statement**
-The sales team needs visibility into which product lines are most profitable and which sales representatives and customers contribute most to revenue. This will help with optimizing regional marketing, inventory planning, and sales strategy.
+**Problem Statement:**
+The sales team needs visibility into various ways to drive revenue and profit. Therefore, I have developed specific analytics goals and questions to help optimize the sales strategy. 
 
 **Analytics Goals**
 * Identify high-revenue and high-margin product lines

@@ -63,13 +63,13 @@ Since Hong Kong’s revenue is only $45,480.79—approximately the average price
    
 ![SQL Command and Results](https://github.com/cristinajiang/Sales-SQL/blob/f79b2285dd2dfcf5d78220ea1f654315472f78a4/images/Top%205%20customers.png)
 
-*Insights: The automotive company is able to retrieve the top 5 customers' names and information.*
+*Insights: The automotive company can retrieve information about the top 5 customers..*
 
 **6. Which employees are responsible for the highest customer revenue?**
    
 ![SQL Command and Results](https://github.com/cristinajiang/Sales-SQL/blob/e2d0b4c83de0fb66dce2650d053e8439423fdff2/images/Sales%20Rep%20Performance.png)
 
-*Insights: The automotive company is able to retrieve the high performers' names and information.*
+*Insights: The automotive company can retrieve the names and details of its top sales performers.*
 
 ## **Next-Step Recommendations to Increase Revenue and Profitability** 
 1. Optimize Profit Strategy

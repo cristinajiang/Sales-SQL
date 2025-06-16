@@ -40,7 +40,7 @@ Since HK's revenue is only $   , which is around the average price for one car. 
 
 3. How often are orders delayed?
    
-![SQL Command and Results](https://github.com/cristinajiang/Sales-SQL/blob/e2d0b4c83de0fb66dce2650d053e8439423fdff2/images/Sales%20Rep%20Performance.png)
+![SQL Command and Results](https://github.com/cristinajiang/Sales-SQL/blob/86607e7330d63efe7de3fe5c6e91efae77dec6b3/images/order%20ship%20date.png)
 
    
 5. Who are the top 5 customers by total payment?

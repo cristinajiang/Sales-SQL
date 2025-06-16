@@ -14,8 +14,10 @@ The sales team needs visibility into various ways to drive revenue and profit. T
 * Highlight sales performance by employees (sales reps) and customers
 * Provide actionable recommendations based on the data
 
+*To help achieve the analytics goals, I have developed the following specific questions to be answered through data analysis:*
+
 **Key Questions**
-1. Which product lines generate the highest revenue and profit margins?
+1. What are the top three product lines generating the highest revenue and profit margins?
 2. Which region generates the most revenue? Which region generates the least revenue?
 3. Is there any revenue trend over time?
 4. How often are orders delayed? 

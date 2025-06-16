@@ -1,7 +1,7 @@
 ## **Sales Performance and Product Line Profitability Analysis For an Automotive Company**
 
-This is a mini side project I completed using a public dataset to explore key business questions and support decision-making with SQL. It includes a problem statement, analytics goals, key questions, SQL code, and a summary of insights and recommendations.
-
+This is a mini side project I completed using a public dataset to explore key business questions and support decision-making with SQL. It includes a problem statement, analytics goals, key questions, SQL code, and a summary of insights and recommendations. Before starting the SQL analysis, I ensured that the database schema was properly defined, including the primary keys for each table and the foreign keys, as shown in the image below: 
+![SQL Command and Results](https://github.com/cristinajiang/Sales-SQL/blob/9f46c7fd98920df7f7486e6e0dc961a6e9735a3e/images/Schema%20.png) 
 
 **Problem Statement:**
 The sales team needs visibility into various ways to drive revenue and profit. Therefore, I have developed a subset of analytics goals and questions to help optimize the sales strategy. 
@@ -65,7 +65,7 @@ Since Hong Kong’s revenue is only $45,480.79—approximately the average price
    
 ![SQL Command and Results](https://github.com/cristinajiang/Sales-SQL/blob/f79b2285dd2dfcf5d78220ea1f654315472f78a4/images/Top%205%20customers.png)
 
-*Insights: The automotive company can retrieve information about the top 5 customers..*
+*Insights: The automotive company can retrieve information about the top 5 customers.*
 
 **6. Which employees are responsible for the highest customer revenue?**
    

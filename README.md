@@ -25,7 +25,7 @@ The sales team needs visibility into various ways to drive revenue and profit. T
    
 **SQL Codes** 
 
-**1. Which product lines generate the highest revenue and profit margins?**
+**1. What are the top three product lines generating the highest revenue and profit margins?**
    
 ![SQL Command and Results](https://github.com/cristinajiang/Sales-SQL/blob/a3e05c8929f9b8c0ef7ceb82ecc1c1cd0e44ae50/images/SQL%20Top%203%20Product%20Line.png) 
 

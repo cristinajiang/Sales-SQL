@@ -4,7 +4,7 @@ This is a mini side project I completed using a public dataset to explore key bu
 
 
 **Problem Statement:**
-The sales team needs visibility into various ways to drive revenue and profit. Therefore, I have developed specific analytics goals and questions to help optimize the sales strategy. 
+The sales team needs visibility into various ways to drive revenue and profit. Therefore, I have developed a subset of analytics goals and questions to help optimize the sales strategy. 
 
 **Analytics Goals**
 * Identify high-revenue and high-margin product lines

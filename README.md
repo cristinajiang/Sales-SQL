@@ -73,7 +73,7 @@ Since Hong Kong’s revenue is only $45,480.79—approximately the average price
 
 *Insights: The automotive company can retrieve the names and details of its top sales performers.*
 
-## **Next-Step Recommendations to Increase Revenue and Profitability** 
+## **Next-Step High Level Recommendations to Increase Revenue and Profitability** 
 1. Optimize Profit Strategy
 * Promote high-margin products like Motorcycles more aggressively
 * Revisit pricing or sourcing strategy for lower-margin, high-volume lines (e.g., Classic Cars)
